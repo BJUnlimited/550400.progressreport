@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.17)  3 NOV 2012 20:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.12)  4 NOV 2012 09:32
 entering extended mode
 **C:/Users/Steven/Dropbox/Fall*2012/Mathematical*Modeling*and*Consulting/Final*
 Project/Progress*Report/main.tex
@@ -9,13 +9,13 @@ LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
 croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
-vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
-an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
-romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
-sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
-senglishmax, welsh, loaded.
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
@@ -223,6 +223,9 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ty
 Package: excludeonly 2003/03/14 v1.0 eponymous command opposite to \includeonly
 
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 \c@theorem=\count112
 \c@lemma=\count113
@@ -281,169 +284,114 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 teven/Dropbox/Fall 2012/Mathematical Modeling and Consulting/Final Project/Prog
 ress Report/BJU.jpg>] [2
 
+] [3
+
 ]
 ("C:\Users\Steven\Dropbox\Fall 2012\Mathematical Modeling and Consulting\Final 
 Project\Progress Report\main.toc")
 \tf@toc=\write3
- [3
+ [4
 
 ]
 ("C:\Users\Steven\Dropbox\Fall 2012\Mathematical Modeling and Consulting\Final 
 Project\Progress Report\main.lof")
 \tf@lof=\write4
- [4
+ [5
 
-] [5
+] [6
 
 ]
-<Bleachers.png, id=23, 467.8278pt x 410.9754pt>
+<Bleachers.png, id=26, 467.8278pt x 410.9754pt>
 File: Bleachers.png Graphic file (type png)
  <use Bleachers.png>
-Package pdftex.def Info: Bleachers.png used on input line 176.
+Package pdftex.def Info: Bleachers.png used on input line 178.
 (pdftex.def)             Requested size: 185.10048pt x 162.6075pt.
- [6
+ [7
 
  <C:/Users/Steven/Dropbox/Fall 2012/Mathematical Modeling and Consulting/Final 
-Project/Progress Report/Bleachers.png>] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 189--193
+Project/Progress Report/Bleachers.png>] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 191--195
 
  []
 
-[8
+[9
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 201.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 203.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 201.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 203.
+ [10
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.215 ...graph {Computational Simulation} \newline
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[9
-
-] [10] <sample_graph.jpg, id=47, 163.3302pt x 277.9986pt>
+]
+[11] <sample_graph.jpg, id=50, 163.3302pt x 277.9986pt>
 File: sample_graph.jpg Graphic file (type jpg)
-
-<use sample_graph.jpg>
-Package pdftex.def Info: sample_graph.jpg used on input line 250.
+ <use sample_graph.jpg>
+Package pdftex.def Info: sample_graph.jpg used on input line 260.
 (pdftex.def)             Requested size: 106.15338pt x 180.67499pt.
- <sample_graph2.jpg, id=48, 562.1pt x 421.575pt>
-File: sample_graph2.jpg Graphic file (type jpg)
 
-<use sample_graph2.jpg>
-Package pdftex.def Info: sample_graph2.jpg used on input line 258.
+<sample_graph2.jpg, id=51, 562.1pt x 421.575pt>
+File: sample_graph2.jpg Graphic file (type jpg)
+ <use sample_graph2.jpg>
+Package pdftex.def Info: sample_graph2.jpg used on input line 268.
 (pdftex.def)             Requested size: 216.81pt x 162.60599pt.
 
-! Extra }, or forgotten $.
-l.265 ... $m=100$,$T_{init}=11$, $T_{absolute}=45}
-                                                  $, and 10 rounds. As can b...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-[11
+[12
 
  <C:/Users/Steven/Dropbox/Fall 2012/Mathematical Modeling and Consulting/Final 
 Project/Progress Report/sample_graph.jpg> <C:/Users/Steven/Dropbox/Fall 2012/Ma
 thematical Modeling and Consulting/Final Project/Progress Report/sample_graph2.
-jpg>] <sample_graph3.jpg, id=52, 163.3302pt x 284.262pt>
+jpg>] <sample_graph3.jpg, id=55, 163.3302pt x 284.262pt>
 File: sample_graph3.jpg Graphic file (type jpg)
 
 <use sample_graph3.jpg>
-Package pdftex.def Info: sample_graph3.jpg used on input line 269.
+Package pdftex.def Info: sample_graph3.jpg used on input line 279.
 (pdftex.def)             Requested size: 103.8132pt x 180.67499pt.
- <sample_graph4.jpg, id=53, 562.1pt x 421.575pt>
+ <sample_graph4.jpg, id=56, 562.1pt x 421.575pt>
 File: sample_graph4.jpg Graphic file (type jpg)
 
 <use sample_graph4.jpg>
-Package pdftex.def Info: sample_graph4.jpg used on input line 277.
+Package pdftex.def Info: sample_graph4.jpg used on input line 287.
 (pdftex.def)             Requested size: 216.81pt x 162.60599pt.
- [12 <C:/Users/Steven/Dropbox/Fall 2012/Mathematical Modeling and Consulting/Fi
+ [13 <C:/Users/Steven/Dropbox/Fall 2012/Mathematical Modeling and Consulting/Fi
 nal Project/Progress Report/sample_graph3.jpg> <C:/Users/Steven/Dropbox/Fall 20
 12/Mathematical Modeling and Consulting/Final Project/Progress Report/sample_gr
-aph4.jpg>] [13
-
-] [14
+aph4.jpg>] [14
 
 ] [15
+
+] [16
 
 ]
 ("C:\Users\Steven\Dropbox\Fall 2012\Mathematical Modeling and Consulting\Final 
 Project\Progress Report\main.bbl"
-! Undefined control sequence.
-l.5 \newblock \url
-                  {http://www.hopkinssports.com/bluejays-unlimited/}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--7
-[]\OT1/cmr/m/n/10.95 Blue Jays Un-lim-ited - Johns Hop-kins Of-fi-cial Ath-let-
-ics Site.
- []
-
-! Undefined control sequence.
-l.10 \newblock \url
-                   {http://en.wikipedia.org/wiki/Homewood\_Field}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 6141) in paragraph at lines 9--12
-[]\OT1/cmr/m/n/10.95 Homewood Field.  http://en.wikipedia.org/wiki/Homewood[]Fi
-eld.  Ac-cessed:
- []
-
-! Undefined control sequence.
-l.15 \newblock \url
-                   {http://www.hopkinssports.com/trads/conference-champs.html}.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 14--17
-[]\OT1/cmr/m/n/10.95 Johns Hop-kins Tra-di-tion.  http://www.hopkinssports.com/
-trads/conference-
+[]\OT1/cmr/m/n/10.95 Johns Hop-kins Tra-di-tion.  $\OT1/cmtt/m/n/10.95 http : /
+ / www . hopkinssports . com / trads /
  []
 
-) [16
+
+Underfull \hbox (badness 2717) in paragraph at lines 19--22
+[]\OT1/cmr/m/n/10.95 Blue Jays Un-lim-ited - Johns Hop-kins Of-fi-cial Ath-let-
+ics Site.  $\OT1/cmtt/m/n/10.95 http : / / www .
+ []
+
+) [17
 
 ]
 ("C:\Users\Steven\Dropbox\Fall 2012\Mathematical Modeling and Consulting\Final 
 Project\Progress Report\main.aux") ) 
 Here is how much of TeX's memory you used:
- 3577 strings out of 494045
- 52286 string characters out of 3145966
- 108291 words of memory out of 3000000
- 6807 multiletter control sequences out of 15000+200000
- 15258 words of font info for 56 fonts, out of 3000000 for 9000
- 715 hyphenation exceptions out of 8191
- 36i,5n,38p,1301b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 3652 strings out of 493921
+ 53208 string characters out of 3144873
+ 109523 words of memory out of 3000000
+ 6878 multiletter control sequences out of 15000+200000
+ 15426 words of font info for 57 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,5n,38p,1430b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
@@ -454,10 +402,11 @@ msfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmtt12.pfb>
-Output written on main.pdf (16 pages, 2350184 bytes).
+/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mtt12.pfb>
+Output written on main.pdf (17 pages, 2366279 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

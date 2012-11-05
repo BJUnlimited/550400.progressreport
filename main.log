@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.12)  4 NOV 2012 09:32
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.17)  4 NOV 2012 19:01
 entering extended mode
 **C:/Users/Steven/Dropbox/Fall*2012/Mathematical*Modeling*and*Consulting/Final*
 Project/Progress*Report/main.tex
@@ -9,13 +9,13 @@ LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
 croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
@@ -327,43 +327,44 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
  [10
 
 ]
-[11] <sample_graph.jpg, id=50, 163.3302pt x 277.9986pt>
+[11] [12] <sample_graph.jpg, id=53, 277.9986pt x 489.2679pt>
 File: sample_graph.jpg Graphic file (type jpg)
- <use sample_graph.jpg>
-Package pdftex.def Info: sample_graph.jpg used on input line 260.
-(pdftex.def)             Requested size: 106.15338pt x 180.67499pt.
 
-<sample_graph2.jpg, id=51, 562.1pt x 421.575pt>
+<use sample_graph.jpg>
+Package pdftex.def Info: sample_graph.jpg used on input line 266.
+(pdftex.def)             Requested size: 102.65425pt x 180.67499pt.
+ <sample_graph2.jpg, id=54, 562.1pt x 421.575pt>
 File: sample_graph2.jpg Graphic file (type jpg)
- <use sample_graph2.jpg>
-Package pdftex.def Info: sample_graph2.jpg used on input line 268.
-(pdftex.def)             Requested size: 216.81pt x 162.60599pt.
 
-[12
+<use sample_graph2.jpg>
+Package pdftex.def Info: sample_graph2.jpg used on input line 274.
+(pdftex.def)             Requested size: 216.81pt x 162.60599pt.
+ [13
 
  <C:/Users/Steven/Dropbox/Fall 2012/Mathematical Modeling and Consulting/Final 
 Project/Progress Report/sample_graph.jpg> <C:/Users/Steven/Dropbox/Fall 2012/Ma
 thematical Modeling and Consulting/Final Project/Progress Report/sample_graph2.
-jpg>] <sample_graph3.jpg, id=55, 163.3302pt x 284.262pt>
+jpg>]
+<sample_graph3.jpg, id=59, 277.9986pt x 483.70811pt>
 File: sample_graph3.jpg Graphic file (type jpg)
+ <use sample_graph3.jpg>
+Package pdftex.def Info: sample_graph3.jpg used on input line 285.
+(pdftex.def)             Requested size: 103.83774pt x 180.67499pt.
 
-<use sample_graph3.jpg>
-Package pdftex.def Info: sample_graph3.jpg used on input line 279.
-(pdftex.def)             Requested size: 103.8132pt x 180.67499pt.
- <sample_graph4.jpg, id=56, 562.1pt x 421.575pt>
+<sample_graph4.jpg, id=60, 562.1pt x 421.575pt>
 File: sample_graph4.jpg Graphic file (type jpg)
-
-<use sample_graph4.jpg>
-Package pdftex.def Info: sample_graph4.jpg used on input line 287.
+ <use sample_graph4.jpg>
+Package pdftex.def Info: sample_graph4.jpg used on input line 293.
 (pdftex.def)             Requested size: 216.81pt x 162.60599pt.
- [13 <C:/Users/Steven/Dropbox/Fall 2012/Mathematical Modeling and Consulting/Fi
-nal Project/Progress Report/sample_graph3.jpg> <C:/Users/Steven/Dropbox/Fall 20
-12/Mathematical Modeling and Consulting/Final Project/Progress Report/sample_gr
-aph4.jpg>] [14
 
-] [15
+[14 <C:/Users/Steven/Dropbox/Fall 2012/Mathematical Modeling and Consulting/Fin
+al Project/Progress Report/sample_graph3.jpg> <C:/Users/Steven/Dropbox/Fall 201
+2/Mathematical Modeling and Consulting/Final Project/Progress Report/sample_gra
+ph4.jpg>] [15
 
 ] [16
+
+] [17
 
 ]
 ("C:\Users\Steven\Dropbox\Fall 2012\Mathematical Modeling and Consulting\Final 
@@ -379,19 +380,19 @@ Underfull \hbox (badness 2717) in paragraph at lines 19--22
 ics Site.  $\OT1/cmtt/m/n/10.95 http : / / www .
  []
 
-) [17
+) [18
 
 ]
 ("C:\Users\Steven\Dropbox\Fall 2012\Mathematical Modeling and Consulting\Final 
 Project\Progress Report\main.aux") ) 
 Here is how much of TeX's memory you used:
- 3652 strings out of 493921
- 53208 string characters out of 3144873
- 109523 words of memory out of 3000000
- 6878 multiletter control sequences out of 15000+200000
+ 3652 strings out of 494045
+ 53208 string characters out of 3145966
+ 110377 words of memory out of 3000000
+ 6877 multiletter control sequences out of 15000+200000
  15426 words of font info for 57 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 36i,5n,38p,1430b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 715 hyphenation exceptions out of 8191
+ 36i,5n,38p,1354b,309s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
@@ -404,9 +405,9 @@ ts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mtt12.pfb>
-Output written on main.pdf (17 pages, 2366279 bytes).
+Output written on main.pdf (18 pages, 2427502 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
